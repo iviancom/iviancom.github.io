@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iviancom.github.io/sitemap.html.gz
+Sitemap: https://iviancom.github.io/app/sitemap.html.gz
+Sitemap: https://iviancom.github.io/assets/sitemap.html.gz
+Sitemap: https://iviancom.github.io/css/sitemap.html.gz
+Sitemap: https://iviancom.github.io/data/sitemap.html.gz
+Sitemap: https://iviancom.github.io/includes/sitemap.html.gz
+Sitemap: https://iviancom.github.io/item/sitemap.html.gz
+Sitemap: https://iviancom.github.io/src/sitemap.html.gz
